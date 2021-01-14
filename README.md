@@ -1,12 +1,10 @@
 # 吃貨女子の餐廳清單
----
 A simple web application to search restaurant, build with Node.js and Express.
 
 ![index-img](https://raw.githubusercontent.com/flora-28/restaurant-list/main/public/photos/index_img.jpg)
 ![show-img](https://raw.githubusercontent.com/flora-28/restaurant-list/main/public/photos/show_img.jpg)
 
 ## Features
----
 1. Users can see all the restaurants and their simple information on the homepage:
    + Restaurant photo
    + Restaurant name
@@ -22,7 +20,6 @@ A simple web application to search restaurant, build with Node.js and Express.
 3. Users can find the specific restaurant by searching the restaurant name
 
 ## Getting Started
----
 Clone repository to your local computer
 ```
 $ git clone
@@ -44,11 +41,9 @@ Now you can browse the web application on
 http://localhost:3000
 ```
 ## Build With
----
 + Node.js: v10.15.0
 + Express: v4.17.1
 + Express-Handlebars: v5.2.0
 
 ## Author
----
 Flora Peng
