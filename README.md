@@ -22,7 +22,7 @@ A simple web application to search restaurant, build with Node.js and Express.
 ## Getting Started
 Clone repository to your local computer
 ```
-$ git clone
+$ git clone https://github.com/flora-28/restaurant-list.git
 ```
 Install by npm
 ```
